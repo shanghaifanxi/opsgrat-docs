@@ -12,6 +12,7 @@ OpsGrat 文档
    :maxdepth: 2
    :glob:
 
-   install/*
+   install/index
+   using/index
 
 
