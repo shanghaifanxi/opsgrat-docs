@@ -57,7 +57,7 @@
 
 .. image:: ../_static/img/using/pingju_ssh.png    
 
-**2.2 添加git或svn凭据**
+**2.2 添加git凭据**
 ---------------------------
 
 **2.3 添加项目**
