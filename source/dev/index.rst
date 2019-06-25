@@ -1,9 +1,10 @@
 
-安装文档
+开发文档
 =============================
 
 .. toctree::
    :maxdepth: 1
    :glob:
 
-   quick_install
+   rest_api
+   api

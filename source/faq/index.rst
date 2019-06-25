@@ -1,9 +1,10 @@
 
-安装文档
+问题解答
 =============================
 
 .. toctree::
    :maxdepth: 1
    :glob:
 
-   quick_install
+   install
+   other

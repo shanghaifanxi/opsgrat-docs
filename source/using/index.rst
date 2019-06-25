@@ -7,6 +7,7 @@
    :glob:
 
    quick_start
+   dashboard
    job
    source
    template

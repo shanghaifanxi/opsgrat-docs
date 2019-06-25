@@ -14,5 +14,8 @@ OpsGrat 文档
 
    install/index
    using/index
+   dev/index
+   faq/index
+   changelog/index
 
 
