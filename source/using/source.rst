@@ -551,7 +551,7 @@
 
 .. image:: ../_static/img/source_img/zhujiqingdan_quanxian1.png
 
-**1.6.2 权限管理（授权用户）查询**
+**3.10.1 权限管理（授权用户）查询**
 ----------------------------------------
 
 .. code-block:: vim
@@ -560,7 +560,7 @@
 
 .. image:: ../_static/img/source_img/zhujiqingdan_quanxian2.png
 
-**1.6.3 权限管理（授权用户）新增**
+**3.10.2 权限管理（授权用户）新增**
 ----------------------------------------
 
 .. code-block:: vim
@@ -569,7 +569,7 @@
 
 .. image:: ../_static/img/source_img/zhujiqingdan_quanxian3.png
 
-**1.6.4 权限管理（授权用户）修改**
+**3.10.3 权限管理（授权用户）修改**
 ----------------------------------------
 
 .. code-block:: vim
@@ -578,7 +578,7 @@
 
 .. image:: ../_static/img/source_img/zhujiqingdan_quanxian4.png
 
-**1.6.5 权限管理（授权用户）删除**
+**3.10.4 权限管理（授权用户）删除**
 ----------------------------------------
 
 .. code-block:: vim
@@ -588,7 +588,7 @@
 .. image:: ../_static/img/source_img/zhujiqingdan_quanxian5.png
 
 
-**1.6.6 权限管理（授权团队）**
+**3.10.5 权限管理（授权团队）**
 ----------------------------------------
 
 .. code-block:: vim
@@ -597,7 +597,7 @@
 
 .. image:: ../_static/img/source_img/zhujiqingdan_quanxian6.png
 
-**1.6.7 权限管理（授权团队）查询**
+**3.10.6 权限管理（授权团队）查询**
 ----------------------------------------
 
 .. code-block:: vim
@@ -606,7 +606,7 @@
 
 .. image:: ../_static/img/source_img/zhujiqingdan_quanxian7.png
 
-**1.6.8 权限管理（授权团队）新增**
+**3.10.7 权限管理（授权团队）新增**
 ----------------------------------------
 
 .. code-block:: vim
@@ -615,7 +615,7 @@
 
 .. image:: ../_static/img/source_img/zhujiqingdan_quanxian8.png
 
-**1.6.9 权限管理（授权团队）修改**
+**3.10.8 权限管理（授权团队）修改**
 ----------------------------------------
 
 .. code-block:: vim
@@ -624,7 +624,7 @@
 
 .. image:: ../_static/img/source_img/zhujiqingdan_quanxian9.png
 
-**1.6.10 权限管理（授权团队）删除**
+**3.10.9 权限管理（授权团队）删除**
 ----------------------------------------
 
 .. code-block:: vim
