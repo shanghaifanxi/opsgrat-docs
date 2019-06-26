@@ -13,4 +13,3 @@ Dashboard
     在该页面可以查看正在运行、失败的作业数量和自动化项目数量、模板数量，以及可以看到每日和每周作业成功和失败的数量趋势图
 
 .. image:: ../_static/img/dashboard_img/dashboard_img.png
-Dashboard
