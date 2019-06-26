@@ -56,7 +56,7 @@
 
 .. image:: ../_static/img/using/template/template_notification_delete.png
 
-.. image:: ../_static/img/using/template/template_delete_result.png
+.. image:: ../_static/img/using/template/template_notification_result.png
 
 
 ::
