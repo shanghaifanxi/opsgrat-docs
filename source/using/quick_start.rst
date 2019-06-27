@@ -114,6 +114,7 @@
 ::
 
     点击“新增”按钮，添加主机清单
+    主机清单内容可直接填写ip地址
 
 .. image:: ../_static/img/using/inventory_add.png
 
