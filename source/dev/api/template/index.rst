@@ -1,10 +1,9 @@
 
-开发文档
+模板管理
 =============================
 
 .. toctree::
    :maxdepth: 1
    :glob:
 
-   rest_api
-   api/index
+   template

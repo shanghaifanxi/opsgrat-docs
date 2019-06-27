@@ -1,10 +1,12 @@
 
-开发文档
+资源管理
 =============================
 
 .. toctree::
    :maxdepth: 1
    :glob:
 
-   rest_api
-   api/index
+
+   credential
+   project
+   inventory
