@@ -124,7 +124,7 @@ Tag管理API文档
    }
 
 
-2、单个tag，修改tag、删除tag API
+2、获取单个tag，修改tag、删除tag API
 --------------------------------------
 
 **请求方式：**    GET（查询） PUT（修改） PATCH（修改） DELETE（删除）
