@@ -1,10 +1,11 @@
 
-开发文档
+自动化管理
 =============================
 
 .. toctree::
    :maxdepth: 1
    :glob:
 
-   rest_api
-   api/index
+   job
+   schedule
+
