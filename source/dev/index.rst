@@ -7,4 +7,4 @@
    :glob:
 
    rest_api
-   api
+   api/index
