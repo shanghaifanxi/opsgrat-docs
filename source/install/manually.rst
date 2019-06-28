@@ -1,10 +1,10 @@
 
-安装文档
+手工安装
 =============================
 
 .. toctree::
    :maxdepth: 1
    :glob:
 
-   quick_install
-   manually
+   sso-install
+   opsgrat-install
