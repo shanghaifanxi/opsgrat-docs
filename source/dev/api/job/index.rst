@@ -8,4 +8,6 @@
 
    job
    schedule
-
+   job_log
+   permissionUsers
+   permissionTeam
