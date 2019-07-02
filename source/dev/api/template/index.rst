@@ -7,3 +7,9 @@
    :glob:
 
    template
+   templatenotfication
+   templaterun
+   templateteam
+   templateuser
+   workflow
+   workflowline
