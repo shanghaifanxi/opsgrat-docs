@@ -6,7 +6,6 @@
    :maxdepth: 1
    :glob:
 
-
    credential
    project
    inventory
