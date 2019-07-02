@@ -7,5 +7,4 @@
    :glob:
 
    user
-   passwd
    tomcat
