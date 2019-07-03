@@ -13,9 +13,18 @@
 --------------------
 
 .. code-block:: vim
-    
-    打开SSO，点击页面左侧菜单栏中“菜单管理”下的“子系统管理”进入子系统管理页面
+
+    先设置SSO，实现基础配置，再管理设备
+    首先，进入SSO
+
+.. image:: ../_static/img/using/sso.png
+
+.. code-block:: vim
+
+    点击页面左侧菜单栏中“菜单管理”下的“子系统管理”进入子系统管理页面
     修改OpsGrat和SSO的路径，改成实际的访问路径
+
+.. image:: ../_static/img/using/navigation.png
 
 **1.2 ldap设置**
 --------------------
@@ -38,6 +47,18 @@
 
 .. image:: ../_static/img/using/sso_user.png
 
+::
+
+    点击“新增”按钮，新增一个deploy用户
+
+.. image:: ../_static/img/using/add.png
+
+::
+
+    退出登录，使用deploy用户进行操作
+
+.. image:: ../_static/img/using/in.png
+
 二、资源管理
 ````````````````````
 
@@ -55,25 +76,31 @@
 
     点击“新增”按钮，新增凭据类型为ssh的凭据
 
-.. image:: ../_static/img/using/pingju_ssh.png
+.. image:: ../_static/img/using/ssh_pj.png
 
-**2.2 添加git凭据**
+**2.2 添加git的凭据**
 ---------------------------
 
 ::
 
-    点击“新增”按钮，新增凭据类型为git的凭据
+    点击“新增”按钮，新增凭据类型为“用户名和密码”的git凭据
 
-.. image:: ../_static/img/using/git.png
+.. image:: ../_static/img/using/git_yhm.png
 
 **2.3 添加项目**
 --------------------------
 
 ::
 
-    点击“新增”按钮，新增凭据类型为svn项目的凭据
+    点击左侧菜单“资源管理”下的“项目管理”菜单
 
-.. image:: ../_static/img/using/svn.png
+.. image:: ../_static/img/using/management.png
+
+::
+
+    点击“新增”按钮，新增凭据类型为git项目的凭据
+
+.. image:: ../_static/img/using/git_xm.png
 
 **2.4 添加主机清单**
 ---------------------------
@@ -87,6 +114,7 @@
 ::
 
     点击“新增”按钮，添加主机清单
+    主机清单内容可直接填写ip地址
 
 .. image:: ../_static/img/using/inventory_add.png
 
@@ -121,7 +149,7 @@
 
     点击“新增”按钮，选择类型为邮件的渠道
 
-.. image:: ../_static/img/using/notification_add.png
+.. image:: ../_static/img/using/notification_add.jpg
 
 四、模板管理
 ``````````````````````````
@@ -147,9 +175,23 @@
 
 ::
 
+    点击通知设置图标，进入通知设置
+
+.. image:: ../_static/img/using/template_sz.png
+
+.. image:: ../_static/img/using/templatetzsz.png
+
+::
+
+    点击新增，选择通知方式
+
+.. image:: ../_static/img/using/method_to.png
+
+::
+
     点击执行图标，执行作业模板
 
-.. image:: ../_static/img/using/template_hj2.jpg
+.. image:: ../_static/img/using/template_hj2.png
 
 
 五、自动化管理
@@ -160,13 +202,13 @@
 
 ::
 
-    点击左侧菜单“自动化管理”下的“批量命令”菜单
+    点击左侧菜单“自动化管理”下的“批量命令”菜单，填写数据后，点击“执行命令”按钮
 
 .. image:: ../_static/img/using/process.png
 
 ::
 
-    点击“执行命令”按钮，批量执行
+    批量执行
 
 .. image:: ../_static/img/using/process_zx.png
 
@@ -179,16 +221,14 @@
 
 .. image:: ../_static/img/using/job.png
 
-**5.3 执行作业**
-------------------------
-
 ::
 
-    点击左侧菜单“自动化管理”下的“作业执行”菜单，点击“执行”按钮，执行作业
+    作业日志：
 
-.. image:: ../_static/img/using/execute.png
+.. image:: ../_static/img/using/job_zy.png
 
-**5.4 设置计划任务**
+
+**5.3 设置计划任务**
 --------------------------
 
 ::

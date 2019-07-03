@@ -7,3 +7,4 @@
    :glob:
 
    quick_install
+   manually
