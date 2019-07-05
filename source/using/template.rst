@@ -9,35 +9,35 @@
 
     点击左侧菜单“模板管理”下的“作业模板菜单”
 
-.. image:: ../_static/img/using/template/template.png
+.. image:: ../_static/img/using/template/1.png
 
 ::
 
     点击新增按钮，跳转到新增页面，并添加相应的数据(像此页面的主机清单、自动化管理、登录凭据(ssh)、tags等下拉框的值均来自于相应页面的新增数据后才可显示选择，前面章节以作相应的介绍，这里不再赘述)，点击保存
 
-.. image:: ../_static/img/using/template/template_add.png
+.. image:: ../_static/img/using/template/2.png
 
 ::
 
     点击保存后，跳转到作业模板页面、同时可以点击上方下拉框进行主机清单、凭据、自动化项目等数据查询并返回查询结果、返回结果分别如下图：
 
-.. image:: ../_static/img/using/template/template_query_inventory.png
+.. image:: ../_static/img/using/template/3.png
 
-.. image:: ../_static/img/using/template/template_query_pingju.png
+.. image:: ../_static/img/using/template/5.png
 
-.. image:: ../_static/img/using/template/template_query_project.png
+.. image:: ../_static/img/using/template/6.png
 
 ::
 
     点击操作框内的执行按钮，跳转到该作业模板的日志页面，显示作业信息和作业日志
 
-.. image:: ../_static/img/using/template/template_job_log.png
+.. image:: ../_static/img/using/template/7.png
 
 ::
 
     点击操作框内的通知按钮，跳转到该作业模板的通知设置页面
 
-.. image:: ../_static/img/using/template/template_notification.png
+.. image:: ../_static/img/using/template/8.png
 
 ::
 
