@@ -135,10 +135,10 @@
 
 **请求方式：**    GET（查询） PUT（修改） PATCH（修改） DELETE（删除）
 
-**请求地址：**    /api/project/group/10/
+**请求地址：**    /api/project/group/1/
 ::
 
-    请求地址中10为主机清单分组的id
+    请求地址中1为主机清单分组的id
 
 
 **输入/输出参数：**   见章节1中输入和输出参数说明，修改数据时输入参数均为非必须
@@ -146,10 +146,10 @@
 **返回数据例子：**
 ::
     {
-        "id": 10,
-        "name": "tomcat-servers",
-        "inventory_name": "阿里云主机",
+        "id": 1,
+        "name": "测试group",
+        "inventory_name": "测试主机",
         "description": "",
         "variables": "",
-        "inventory": 18
-    },
+        "inventory": 4
+    }

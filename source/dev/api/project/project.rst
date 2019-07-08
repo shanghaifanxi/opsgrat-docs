@@ -168,10 +168,10 @@
 
 **请求方式：**    GET（查询） PUT（修改） PATCH（修改） DELETE（删除）
 
-**请求地址：**    /api/project/credential/17/
+**请求地址：**    /api/project/project/1/
 ::
 
-    请求地址中17为项目的id
+    请求地址中1为项目的id
 
 
 **输入/输出参数：**   见章节1中输入和输出参数说明，修改数据时输入参数均为非必须
@@ -179,16 +179,15 @@
 **返回数据例子：**
 ::
     {
-        "id": 17,
-        "name": "tomcat playbook",
-        "credential_name": "Git Lab凭据",
+        "id": 1,
+        "name": "自动化测试",
         "description": "",
         "project_type": "git",
-        "repository_url": "http://101.132.155.111:8090/test/tomcat.git",
+        "repository_url": "http://101.132.155.111:8090/test/wordpress-nginx.git",
         "branch_specifier": "master",
         "playbook": "",
-        "credential": 20,
+        "credential": null,
         "revision": "",
         "vault_credential": null,
-        "cuser": 48
-    },
+        "cuser": 1
+    }
