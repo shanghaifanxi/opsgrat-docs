@@ -8,3 +8,4 @@
 
    user
    tomcat
+   python
