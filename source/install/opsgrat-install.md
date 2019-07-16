@@ -18,6 +18,7 @@
 ```
 yum install openldap openldap-devel
 yum install sshpass
+pip install ansible==2.7
 ```
 
 ## 四、安装python3.6

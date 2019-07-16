@@ -7,4 +7,5 @@
    :glob:
 
    quick_install
+   playbook
    manually
