@@ -142,10 +142,10 @@
 
 **请求方式：**    GET（查询） PUT（修改） PATCH（修改） DELETE（删除）
 
-**请求地址：**    /api/template/workflow/line/20/
+**请求地址：**    /api/template/workflow/line/1/
 ::
 
-    请求地址中20为连线的id
+    请求地址中1为连线的id
 
 
 **输入/输出参数：**   见章节1中输入和输出参数说明，修改数据时输入参数均为非必须
@@ -153,11 +153,11 @@
 **返回数据例子：**
 ::
     {
-        "id": 20,
-        "node": 20,
-        "next_node": 21,
-        "source_anchor": "BottomCenter",
-        "target_anchor": "TopCenter",
-        "result": "failed",
-        "result_name": "失败"
+        "id": 1,
+        "node": 1,
+        "next_node": 2,
+        "source_anchor": "RightMiddle",
+        "target_anchor": "LeftMiddle",
+        "result": "any",
+        "result_name": "成功或失败"
     }
