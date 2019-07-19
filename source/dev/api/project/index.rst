@@ -8,10 +8,14 @@
 
    credential
    project
+   projectteam
+   projectuser
    inventory
    childrengroup
    credentialteam
-   creaentialuser
+   credentialuser
    grouphost
    host
    inventorygroup
+   inventoryteam
+   inventoryuser

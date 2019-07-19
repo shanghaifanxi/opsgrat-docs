@@ -8,6 +8,7 @@
 
 ::
 
+    管理作业存放的目录、作业超时时间、作业无响应时间和作业保存天数
     点击左侧菜单“系统管理”下的“作业设置”菜单，进入作业设置
 
 .. image:: ../_static/img/using/system/jobsettingsadd.png
@@ -35,13 +36,14 @@
 
 ::
 
+    管理授权权限时默认的团队，用于授权团队中团队名称参数选择的默认值
     点击左侧菜单“系统管理”下的“团队管理”菜单
 
 .. image:: ../_static/img/using/system/team.png
 
 ::
 
-    点击“新增”按钮，新增团队
+    点击“新增”按钮，新增一个名称为“演示团队管理”的团队
 
 .. image:: ../_static/img/using/system/team_add.png
 
@@ -101,13 +103,14 @@
 
 ::
 
+    管理作业中默认的模块，用于批量命令中模块参数选择的默认值
     点击左侧菜单“系统管理”下的“模块管理”菜单
 
 .. image:: ../_static/img/using/system/module.png
 
 ::
 
-    点击“新增”按钮，新增模块
+    点击“新增”按钮，新增一个“shell”模块
 
 .. image:: ../_static/img/using/system/module_add.png
 
@@ -163,13 +166,14 @@
 
 ::
 
+    管理playbook中默认的tag，用于作业模板中tags参数和skip_tags参数选择的默认值
     点击左侧菜单“系统管理”下的“Tag管理”菜单
 
 .. image:: ../_static/img/using/system/tag.png
 
 ::
 
-    点击“新增”按钮，新增模块
+    点击“新增”按钮，新增名称为“zookeeper”的tag
 
 .. image:: ../_static/img/using/system/tagadd.png
 
@@ -241,7 +245,7 @@
 
 ::
 
-    若申请时，MAC地址填写错误
+    若购买时，MAC地址填写错误
 
 .. image:: ../_static/img/using/system/license_noimport.png
 
