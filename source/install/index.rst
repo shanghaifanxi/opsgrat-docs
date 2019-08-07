@@ -7,4 +7,3 @@
    :glob:
 
    all-in-one
-   manually
