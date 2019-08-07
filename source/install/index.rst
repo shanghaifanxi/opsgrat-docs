@@ -6,6 +6,5 @@
    :maxdepth: 1
    :glob:
 
-   quick_install
-   playbook
+   all-in-one
    manually
