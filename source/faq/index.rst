@@ -7,4 +7,5 @@
    :glob:
 
    install
+   using
    other

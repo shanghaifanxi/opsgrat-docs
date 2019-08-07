@@ -13,3 +13,4 @@
    template
    notification
    system
+   ad
