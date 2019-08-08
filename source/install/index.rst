@@ -7,3 +7,4 @@
    :glob:
 
    all-in-one
+   configuration
