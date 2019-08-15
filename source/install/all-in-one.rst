@@ -16,8 +16,8 @@
 
 ::
 
-   下载地址为：http://download.opsgrat.com/
-   安装包为：opsgrat.tar.gz
+   下载地址为：http://www.opsgrat.com/download/
+   安装包为：opsgrat-all-in-one.tar.gz
 
 三、部署OpsGrat
 ---------------------------
@@ -25,7 +25,7 @@
 ::
 
    1、将安装包上传到服务器 /opt 目录下
-   2、进入/opt目录执行解压：tar -zxvf opsgrat.tar.gz
+   2、进入/opt目录执行解压：tar -zxvf opsgrat-all-in-one.tar.gz
    3、进入/opt/opsgrat目录执行setup.sh脚本进行服务部署和启动：cd /opt/opsgrat && sh setup.sh
 
 四、登录SSO
