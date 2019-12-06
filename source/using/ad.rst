@@ -1,9 +1,6 @@
 AD配置
 =====================
 
-ldap配置
--------------------------
-
 打开sso，进入“系统设置”菜单下的“基本设置”
 
 .. image:: ../_static/img/using/settings_ldap.png
