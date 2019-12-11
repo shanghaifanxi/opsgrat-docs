@@ -603,3 +603,15 @@
 .. code-block:: vim
 
     主机管理页面的添加主机按钮也有相同的功能切换逻辑，不做赘述。
+
+
+.. code-block:: vim
+
+    在主机管理页面，也可以点击名称字段，会跳转到该主机近期所执行的作业展示，同时可以在此页面进行数据模糊筛选，高级筛选，对执行后的作业再次执行，查看，删除等操作。
+
+.. image:: ../_static/img/source_img/99.png
+.. image:: ../_static/img/source_img/100.png
+.. image:: ../_static/img/source_img/101.png
+.. image:: ../_static/img/source_img/102.png
+.. image:: ../_static/img/source_img/103.png
+
