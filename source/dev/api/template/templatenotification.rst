@@ -52,6 +52,8 @@
 +------------------------+------------+------------+------------------------------------------------+
 | notification_channel   | int        | 否         |    通知渠道                                    |
 +------------------------+------------+------------+------------------------------------------------+
+| result                 | string     | 是         |    运行结果                                    |
++------------------------+------------+------------+------------------------------------------------+
 
 
 **输出参数：**
@@ -68,6 +70,8 @@
 | notification           | string     | 是         |    通知id中文名称                              |
 +------------------------+------------+------------+------------------------------------------------+
 | notification_channel   | int        | 否         |    通知渠道                                    |
++------------------------+------------+------------+------------------------------------------------+
+| result                 | string     | 是         |    运行结果                                    |
 +------------------------+------------+------------+------------------------------------------------+
 
 **批量删除参数：**
@@ -102,14 +106,16 @@
                 "template": 26,
                 "notification": 12,
                 "notification_name": "notification weixin",
-                "notification_channel": "QiYeWeiXin"
+                "notification_channel": "QiYeWeiXin",
+                "result": "成功"
             },
             {
                 "id": 21,
                 "template": 12,
                 "notification": 7,
                 "notification_name": "钉钉通知",
-                "notification_channel": "DingTalk"
+                "notification_channel": "DingTalk",
+                "result": "成功"
                 }
             ]
         }
@@ -121,7 +127,8 @@
         "template": 26,
         "notification": 12,
         "notification_name": "notification weixin",
-        "notification_channel": "QiYeWeiXin"
+        "notification_channel": "QiYeWeiXin",
+        "result": "成功"
     }
 
 2、获取单个工作流通知管理，修改工作流通知管理、删除工作流通知管理 API
@@ -144,5 +151,7 @@
         "template": 26,
         "notification": 12,
         "notification_name": "notification weixin",
-        "notification_channel": "QiYeWeiXin"
+        "notification_channel": "QiYeWeiXin",
+        "result": "成功"
     }
+是
