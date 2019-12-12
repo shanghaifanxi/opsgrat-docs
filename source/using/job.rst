@@ -10,65 +10,61 @@
 
     点击左侧菜单“自动化管理”下的“作业管理菜单”
 
-.. image:: ../_static/img/using/job/1.png
+.. image:: ../_static/img/using/job/1.jpg
 
 ::
 
-    点击上方的下拉框可以根据模板、主机清单、凭据等进行数据查询并返回数据结果
+    点击上方的内容筛选框，可以根据模糊搜索、模板、主机清单、凭据进行查询并返回结果，也可以点击旁边的高级筛选条件进行搜索查询。
 
-.. image:: ../_static/img/using/job/2.png
-
-.. image:: ../_static/img/using/job/3.png
-
-.. image:: ../_static/img/using/job/4.png
+.. image:: ../_static/img/using/job/2.jpg
 
 ::
 
     点击操作框内的日志查看按钮
 
-.. image:: ../_static/img/using/job/5.png
+.. image:: ../_static/img/using/job/5.jpg
 
 ::
 
     跳转到该作业的日志页面、左边部分显示该作业的信息、右边部分显示日志信息
 
-.. image:: ../_static/img/using/job/6.png
+.. image:: ../_static/img/using/job/6.jpg
 
 ::
 
     点击操作框内的执行按钮
 
-.. image:: ../_static/img/using/job/7.png
+.. image:: ../_static/img/using/job/7.jpg
 
 ::
 
     提示确认信息，确认后执行命令,跳转到该作业的日志页面
 
-.. image:: ../_static/img/using/job/8.png
+.. image:: ../_static/img/using/job/8.jpg
 
-.. image:: ../_static/img/using/job/9.png
+.. image:: ../_static/img/using/job/9.jpg
 
 ::
 
     点击操作框内的删除按钮，可以删除当前行数据
 
-.. image:: ../_static/img/using/job/10.png
+.. image:: ../_static/img/using/job/10.jpg
 
 ::
 
     提示确认信息，确认后进行数据删除
 
-.. image:: ../_static/img/using/job/11.png
+.. image:: ../_static/img/using/job/11.jpg
 
-.. image:: ../_static/img/using/job/12.png
+.. image:: ../_static/img/using/job/12.jpg
 
 ::
 
     点击右上角的列显示状态按钮下拉菜单，并点击要隐藏或者展示的列来获取相应列的信息
 
-.. image:: ../_static/img/using/job/13.png
+.. image:: ../_static/img/using/job/13.jpg
 
-.. image:: ../_static/img/using/job/14.png
+.. image:: ../_static/img/using/job/14.jpg
 
 
 ::
@@ -87,15 +83,15 @@
 
 .. image:: ../_static/img/using/job/16.png
 
-.. image:: ../_static/img/using/job/17.png
+.. image:: ../_static/img/using/job/17.jpg
 
 ::
 
     模板类型为工作流的模板可以点击前面的加号，会展示出该ID下的子作业数据
 
-.. image:: ../_static/img/using/job/18.png
+.. image:: ../_static/img/using/job/18.jpg
 
-.. image:: ../_static/img/using/job/19.png
+.. image:: ../_static/img/using/job/19.jpg
 
 ::
 
@@ -107,9 +103,9 @@
           2、当作业类型为工作流，点击执行按钮跳转到工作流程图形页面
           对应页面如下如：
 
-.. image:: ../_static/img/using/job/20.png
+.. image:: ../_static/img/using/job/20.jpg
 
-.. image:: ../_static/img/using/job/21.png
+.. image:: ../_static/img/using/job/21.jpg
 
 .. image:: ../_static/img/using/job/22.png
 
