@@ -155,19 +155,19 @@
 
     点击左侧菜单“模板管理”下的“工作流模板菜单”
 
-.. image:: ../_static/img/using/template/template_workflow.png
+.. image:: ../_static/img/using/template/31.jpg
 
 ::
 
     点击新增按钮，填入相应数据
 
-.. image:: ../_static/img/using/template/template_workflow_add.png
+.. image:: ../_static/img/using/template/32.jpg
 
 ::
 
     点击操作框内的流程设计按钮，进入流程设计页面、在此页面移动鼠标至右上角将开始节点和处理节点拖拽到左侧的放置区域内，同时可以将节点之间进行连接
 
-.. image:: ../_static/img/using/template/template_editflow.png
+.. image:: ../_static/img/using/template/33.jpg
 
 ::
 
@@ -180,7 +180,7 @@
 
     点击连线之间的修改按钮，可以对节点之间的状态进行设置
 
-.. image:: ../_static/img/using/template/template_workflow_line_settings.png
+.. image:: ../_static/img/using/template/34.jpg
 
 ::
 
@@ -190,15 +190,14 @@
 
     点击节点上的修改按钮，可以编辑该节点以及点击节点上的删除按钮可以删除相关节点
 
-.. image:: ../_static/img/using/template/template_workflow_node.png
+.. image:: ../_static/img/using/template/35.jpg
 
-.. image:: ../_static/img/using/template/template_workflow_node_update.png
 
 ::
 
     返回工作流模板页面，点击通知设置按钮
 
-.. image:: ../_static/img/using/template/template_workflow_notification_button.png
+.. image:: ../_static/img/using/template/36.jpg
 
 ::
 
@@ -212,18 +211,18 @@
 
    点击操作框内的执行按钮，可以执行该工作流，并跳转到流程图页面，展示相关信息
 
-.. image:: ../_static/img/using/template/template_workflow_execute.png
+.. image:: ../_static/img/using/template/37.jpg
 
-.. image:: ../_static/img/using/template/template_workflow_result.png
+.. image:: ../_static/img/using/template/38.jpg
 
 
 ::
 
    同时可以点击节点上的查看按钮，跳转到该节点模板的执行状态页面
 
-.. image:: ../_static/img/using/template/template_workflow_look.png
+.. image:: ../_static/img/using/template/39.jpg
 
-.. image:: ../_static/img/using/template/template_workflow_look_log.png
+.. image:: ../_static/img/using/template/40.jpg
 
 ::
 
@@ -233,8 +232,8 @@
 
    返回工作流模板页面，点击右上角的列状态下拉菜单，可以对相应的列进行显示或者隐藏
 
-.. image:: ../_static/img/using/template/template_workflow_column.png
+.. image:: ../_static/img/using/template/41.jpg
 
-.. image:: ../_static/img/using/template/template_workflow_column_result.png
+.. image:: ../_static/img/using/template/42.jpg
 
 
