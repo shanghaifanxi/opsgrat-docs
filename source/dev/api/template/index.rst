@@ -7,7 +7,7 @@
    :glob:
 
    template
-   templatenotfication
+   templatenotification
    templaterun
    templateteam
    templateuser
