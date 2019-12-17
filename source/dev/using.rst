@@ -18,19 +18,19 @@ API使用
 
     1、登录OpsGrat系统，点击左侧上方用户头像下用户名，如下图所示：
 
-.. image:: ../_static/img/dev/token_username.png
+.. image:: ../_static/img/dev/token_username.jpg
 
 ::
 
     2、然后点击弹出窗中的“API Token”按钮，如下图所示：
 
-.. image:: ../_static/img/dev/token_list.png
+.. image:: ../_static/img/dev/token_list.jpg
 
 ::
 
     3、最后在弹出的“我的Token”模态框中可以看到登录用户的API Token，如下图：
 
-.. image:: ../_static/img/dev/token.png
+.. image:: ../_static/img/dev/token.jpg
 
 **使用例子：**
 ::
