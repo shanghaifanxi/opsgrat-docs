@@ -186,7 +186,55 @@
 .. image:: ../_static/img/using/template_addupdate.png
 
 
-**4.2 执行作业模板**
+::
+
+    假设添加的main.yml的内容为：
+
+
+::
+
+   ---
+   # 创建用户
+
+   - hosts: all
+     tasks:
+      - name: Create group
+        group:
+          name: "{{ group_name }}"
+          state: present
+
+      - name: Create user
+        user:
+          name: "{{ user_name }}"
+          groups: "{{ group_name }}"
+          state: present
+
+      - name: Create .ssh
+        file:
+          path: "/home/{{ user_name }}/.ssh"
+          owner: "{{ user_name }}"
+          group: "{{ group_name }}"
+          mode: 0700
+          state: directory
+
+
+      - name: Deploy authorized_keys
+        copy:
+          src: authorized_keys
+          dest: "/home/{{ user_name }}/.ssh/authorized_keys"
+          owner: "{{ user_name }}"
+          group: "{{ group_name }}"
+          mode: 0600
+
+
+::
+
+    在扩展参数里填入main.yml需要的参数，如：
+
+.. image:: ../_static/img/using/template_addupdateadda.jpg
+
+
+**4.2 设置通知方式**
 ---------------------------
 
 ::
@@ -199,15 +247,25 @@
 
 ::
 
-    点击新增，选择通知方式
+    点击新增，选择通知方式，如邮件通知
 
 .. image:: ../_static/img/using/method_to.png
+
+
+**4.2 执行作业模板**
+---------------------------
 
 ::
 
     点击执行图标，执行作业模板
 
 .. image:: ../_static/img/using/template_hj2.png
+
+::
+
+    通过显示的执行日志页面，可以看到执行过程
+
+.. image:: ../_static/img/using/template_hjadd.jpg
 
 
 五、自动化管理

@@ -11,7 +11,7 @@
 .. code-block:: vim
 
     点击“资源管理”下的“凭据管理”菜单，进入凭据管理页面，可以在该页面查看所有添加的凭据。
-.. image:: ../_static/img/source_img/pingju1.png
+.. image:: ../_static/img/source_img/pingju1.jpg
 
 **1.2 查询**
 ----------------------------------------
@@ -20,7 +20,7 @@
 
     点击搜索模态框，可以根据根据凭据名称和用户名进行搜索查询。
 
-.. image:: ../_static/img/source_img/pingju2.png
+.. image:: ../_static/img/source_img/pingju2.jpg
 
 **1.3 添加凭据**
 ----------------------------------------
@@ -29,7 +29,7 @@
 
     点击“新增”按钮，根据模态框新增相应得数据进行添加凭据。
 
-.. image:: ../_static/img/source_img/pingju3.png
+.. image:: ../_static/img/source_img/pingju3.jpg
 
 **1.4 修改凭据**
 ----------------------------------------
@@ -38,7 +38,7 @@
 
     点击操作栏下的“修改”按钮，根据模态框相应得数据进行修改凭据。
 
-.. image:: ../_static/img/source_img/pingju4.png
+.. image:: ../_static/img/source_img/pingju4.jpg
 
 **1.5 删除凭据**
 ----------------------------------------
@@ -47,7 +47,7 @@
 
     点击操作栏下的“删除”按钮，可以删除该凭据。
 
-.. image:: ../_static/img/source_img/pingju5.png
+.. image:: ../_static/img/source_img/pingju5.jpg
 
 **1.6.1 权限管理（授权用户）**
 ----------------------------------------
@@ -56,7 +56,7 @@
 
     点击操作栏下的“权限管理”按钮，可进入到授权用户界面。
 
-.. image:: ../_static/img/source_img/quanxian1.png
+.. image:: ../_static/img/source_img/quanxian1.jpg
 
 **1.6.2 权限管理（授权用户）查询**
 ----------------------------------------
@@ -65,7 +65,7 @@
 
     点击搜索模态框，可以根据根据凭据名称和用户名进行搜索查询。
 
-.. image:: ../_static/img/source_img/quanxian2.png
+.. image:: ../_static/img/source_img/quanxian2.jpg
 
 **1.6.3 权限管理（授权用户）新增**
 ----------------------------------------
@@ -74,7 +74,7 @@
 
     点击“新增”按钮，根据模态框新增相应得数据进行添加授权用户。
 
-.. image:: ../_static/img/source_img/quanxian3.png
+.. image:: ../_static/img/source_img/quanxian3.jpg
 
 **1.6.4 权限管理（授权用户）修改**
 ----------------------------------------
@@ -83,7 +83,7 @@
 
     点击操作栏下的“修改”按钮，根据模态框相应得数据进行修改授权用户。
 
-.. image:: ../_static/img/source_img/quanxian4.png
+.. image:: ../_static/img/source_img/quanxian4.jpg
 
 **1.6.5 权限管理（授权用户）删除**
 ----------------------------------------
@@ -92,7 +92,7 @@
 
     点击操作栏下的“删除”按钮，可以删除该授权用户。
 
-.. image:: ../_static/img/source_img/quanxian5.png
+.. image:: ../_static/img/source_img/quanxian5.jpg
 
 
 **1.6.6 权限管理（授权团队）**
@@ -102,7 +102,7 @@
 
     点击上方页卡的“授权团队”按钮，可进入到授权团队界面。
 
-.. image:: ../_static/img/source_img/quanxian6.png
+.. image:: ../_static/img/source_img/quanxian6.jpg
 
 **1.6.7 权限管理（授权团队）查询**
 ----------------------------------------
@@ -111,7 +111,7 @@
 
     点击搜索模态框，可以根据根据团队进行搜索查询。
 
-.. image:: ../_static/img/source_img/quanxian7.png
+.. image:: ../_static/img/source_img/quanxian7.jpg
 
 **1.6.8 权限管理（授权团队）新增**
 ----------------------------------------
@@ -120,7 +120,7 @@
 
     点击“新增”按钮，根据模态框新增相应得数据进行添加授权团队。
 
-.. image:: ../_static/img/source_img/quanxian8.png
+.. image:: ../_static/img/source_img/quanxian8.jpg
 
 **1.6.9 权限管理（授权团队）修改**
 ----------------------------------------
@@ -129,7 +129,7 @@
 
     点击操作栏下的“修改”按钮，根据模态框相应得数据进行修改授权团队。
 
-.. image:: ../_static/img/source_img/quanxian9.png
+.. image:: ../_static/img/source_img/quanxian9.jpg
 
 **1.6.10 权限管理（授权团队）删除**
 ----------------------------------------
@@ -138,7 +138,7 @@
 
     点击操作栏下的“删除”按钮，可以删除该授权团队。
 
-.. image:: ../_static/img/source_img/quanxian10.png
+.. image:: ../_static/img/source_img/quanxian10.jpg
 
 
 二、项目管理
@@ -150,7 +150,7 @@
 .. code-block:: vim
 
     点击“资源管理”下的“项目管理”菜单，进入项目管理页面，可以在该页面查看所有添加的项目。
-.. image:: ../_static/img/source_img/xiangmu1.png
+.. image:: ../_static/img/source_img/xiangmu1.jpg
 
 **2.2 查询**
 ----------------------------------------
@@ -160,7 +160,7 @@
     点击搜索模态框，可以根据根据项目类型、凭据、名称、描述进行搜索查询，
     点击最右边的按钮，可以对相应得数据隐藏或者显示。
 
-.. image:: ../_static/img/source_img/xiangmu2.png
+.. image:: ../_static/img/source_img/xiangmu2.jpg
 
 **2.3 添加项目**
 ----------------------------------------
@@ -169,7 +169,7 @@
 
     点击“新增”按钮，根据模态框新增相应得数据进行添加项目。
 
-.. image:: ../_static/img/source_img/xiangmu3.png
+.. image:: ../_static/img/source_img/xiangmu3.jpg
 
 **2.4 修改项目**
 ----------------------------------------
@@ -178,7 +178,7 @@
 
     点击操作栏下的“修改”按钮，根据模态框相应得数据进行修改项目。
 
-.. image:: ../_static/img/source_img/xiangmu4.png
+.. image:: ../_static/img/source_img/xiangmu4.jpg
 
 **2.5 删除项目**
 ----------------------------------------
@@ -187,7 +187,7 @@
 
     点击操作栏下的“删除”按钮，可以删除该项目。
 
-.. image:: ../_static/img/source_img/xiangmu5.png
+.. image:: ../_static/img/source_img/xiangmu5.jpg
 
 **2.6.1 权限管理（授权用户）**
 ----------------------------------------
@@ -196,7 +196,7 @@
 
     点击操作栏下的“权限管理”按钮，可进入到授权用户界面。
 
-.. image:: ../_static/img/source_img/xiangmu_quanxian1.png
+.. image:: ../_static/img/source_img/xiangmu_quanxian1.jpg
 
 **2.6.2 权限管理（授权用户）查询**
 ----------------------------------------
@@ -205,7 +205,7 @@
 
     点击搜索模态框，可以根据根据凭据名称和用户名进行搜索查询。
 
-.. image:: ../_static/img/source_img/xiangmu_quanxian2.png
+.. image:: ../_static/img/source_img/xiangmu_quanxian2.jpg
 
 **2.6.3 权限管理（授权用户）新增**
 ----------------------------------------
@@ -214,7 +214,7 @@
 
     点击“新增”按钮，根据模态框新增相应得数据进行添加授权用户。
 
-.. image:: ../_static/img/source_img/xiangmu_quanxian3.png
+.. image:: ../_static/img/source_img/xiangmu_quanxian3.jpg
 
 **2.6.4 权限管理（授权用户）修改**
 ----------------------------------------
@@ -223,7 +223,7 @@
 
     点击操作栏下的“修改”按钮，根据模态框相应得数据进行修改授权用户。
 
-.. image:: ../_static/img/source_img/xiangmu_quanxian4.png
+.. image:: ../_static/img/source_img/xiangmu_quanxian4.jpg
 
 **2.6.5 权限管理（授权用户）删除**
 ----------------------------------------
@@ -232,7 +232,7 @@
 
     点击操作栏下的“删除”按钮，可以删除该授权用户。
 
-.. image:: ../_static/img/source_img/xiangmu_quanxian5.png
+.. image:: ../_static/img/source_img/xiangmu_quanxian5.jpg
 
 
 **2.6.6 权限管理（授权团队）**
@@ -242,7 +242,7 @@
 
     点击上方页卡的“授权团队”按钮，可进入到授权团队界面。
 
-.. image:: ../_static/img/source_img/xiangmu_quanxian6.png
+.. image:: ../_static/img/source_img/xiangmu_quanxian6.jpg
 
 **2.6.7 权限管理（授权团队）查询**
 ----------------------------------------
@@ -251,7 +251,7 @@
 
     点击搜索模态框，可以根据根据团队进行搜索查询。
 
-.. image:: ../_static/img/source_img/xiangmu_quanxian7.png
+.. image:: ../_static/img/source_img/xiangmu_quanxian7.jpg
 
 **2.6.8 权限管理（授权团队）新增**
 ----------------------------------------
@@ -260,7 +260,7 @@
 
     点击“新增”按钮，根据模态框新增相应得数据进行添加授权团队。
 
-.. image:: ../_static/img/source_img/xiangmu_quanxian8.png
+.. image:: ../_static/img/source_img/xiangmu_quanxian8.jpg
 
 **2.6.9 权限管理（授权团队）修改**
 ----------------------------------------
@@ -269,7 +269,7 @@
 
     点击操作栏下的“修改”按钮，根据模态框相应得数据进行修改授权团队。
 
-.. image:: ../_static/img/source_img/xiangmu_quanxian9.png
+.. image:: ../_static/img/source_img/xiangmu_quanxian9.jpg
 
 **2.6.10 权限管理（授权团队）删除**
 ----------------------------------------
@@ -278,7 +278,7 @@
 
     点击操作栏下的“删除”按钮，可以删除该授权团队。
 
-.. image:: ../_static/img/source_img/xiangmu_quanxian10.png
+.. image:: ../_static/img/source_img/xiangmu_quanxian10.jpg
 
 三、主机清单
 ````````````````````

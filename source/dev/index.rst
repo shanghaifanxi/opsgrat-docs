@@ -6,6 +6,5 @@
    :maxdepth: 1
    :glob:
 
-   rest_api
    using
    api/index

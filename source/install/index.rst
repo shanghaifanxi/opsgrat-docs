@@ -6,5 +6,5 @@
    :maxdepth: 1
    :glob:
 
-   quick_install
-   manually
+   all-in-one
+   configuration
