@@ -132,7 +132,15 @@
     点击“新增”按钮，添加主机清单
     主机清单内容可直接填写ip地址
 
-.. image:: ../_static/img/using/inventory_add.png
+.. image:: ../_static/img/using/quick_inventory_1.png
+.. image:: ../_static/img/using/quick_inventory_2.png
+.. image:: ../_static/img/using/quick_inventory_3.png
+.. image:: ../_static/img/using/quick_inventory_4.png
+.. image:: ../_static/img/using/quick_inventory_5.png
+.. image:: ../_static/img/using/quick_inventory_6.png
+.. image:: ../_static/img/using/quick_inventory_7.png
+.. image:: ../_static/img/using/quick_inventory_9.png
+
 
 三、通知管理
 ````````````````````
