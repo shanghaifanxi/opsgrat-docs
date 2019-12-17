@@ -87,7 +87,7 @@
 
 ::
 
-    模板类型为工作流的模板可以点击前面的加号，会展示出该ID下的子作业数据
+    模板类型为工作流的模板可以点击前面的加号，会展示出该ID下的子作业数据。
 
 .. image:: ../_static/img/using/job/18.jpg
 
@@ -95,7 +95,7 @@
 
 ::
 
-    同时可以对子作业进行执行、查看、删除等操作，功能与前面所介绍的类似
+    同时可以对子作业进行执行、查看、删除等操作，功能与前面所介绍的类似。
 
 ::
 
@@ -103,9 +103,9 @@
           2、当作业类型为工作流，点击执行按钮跳转到工作流程图形页面
           对应页面如下如：
 
-.. image:: ../_static/img/using/job/20.jpg
+.. image:: ../_static/img/using/job/20.png
 
-.. image:: ../_static/img/using/job/21.jpg
+.. image:: ../_static/img/using/job/21.png
 
 .. image:: ../_static/img/using/job/22.png
 
@@ -113,14 +113,14 @@
 
 
 
-二、批量命令
+二、快速命令
 ````````````````````````
 
 ::
 
-    点击左侧菜单“自动化管理”下的“批量命令菜单”
+    点击左侧菜单“自动化管理”下的“快速命令菜单”
 
-.. image:: ../_static/img/using/job/24.png
+.. image:: ../_static/img/using/job/25.png
 
 ::
 
@@ -128,72 +128,67 @@
 
 ::
 
-    点击左侧菜单“系统管理”下的“模块管理”、在此页面进行新增需要的模块
+    点击左侧菜单“系统管理”下的“Ansible模块”、在此页面进行新增需要的模块。
 
-.. image:: ../_static/img/using/job/25.png
+.. image:: ../_static/img/using/job/24.png
+
+
+::
+
+    点击左侧菜单“资源管理”下的“凭据管理”、在此页面进行新增需要的凭据。
 
 .. image:: ../_static/img/using/job/26.png
 
+
 ::
 
-    点击左侧菜单“资源管理”下的“凭据管理”、在此页面进行新增需要的凭据
+    点击左侧菜单“资源管理”下的“主机清单”、在此页面进行新增需要的主机清单（详细步骤已在介绍主机清单说明）。
 
 .. image:: ../_static/img/using/job/27.png
 
+
+::
+
+    最后添加数据，并点击右上角的执行命令按钮，页面进行跳转。
+
 .. image:: ../_static/img/using/job/28.png
 
-::
-
-    点击左侧菜单“资源管理”下的“主机清单”、在此页面进行新增需要的主机清单
-
-.. image:: ../_static/img/using/job/29.png
-
-.. image:: ../_static/img/using/job/30.png
-
-::
-
-    最后添加数据，并点击左上角的执行命令按钮
-
-.. image:: ../_static/img/using/job/31.png
-
-.. image:: ../_static/img/using/job/32.png
 
 ::
 
     该批量命令会跳转到该任务的日志页面，展示该批量命令运行的信息
 
-.. image:: ../_static/img/using/job/33.png
+.. image:: ../_static/img/using/job/29.png
 
 
-三、作业执行
+三、Playbook执行
 ````````````````````````
 
 ::
 
-   点击左侧菜单“自动化管理”下的“作业执行菜单”
+   点击左侧菜单“自动化管理”下的“Playbook执行”
 
-.. image:: ../_static/img/using/job/34.png
+.. image:: ../_static/img/using/job/30.png
 
 ::
 
    填写或选择相应的数据（像主机清单、登录凭据(ssh)上面以作叙述，这里不再介绍）
-   这里介绍如何获取tags和skip_tags、点击左侧菜单“系统管理”下的“Tag管理菜单”
+   这里介绍如何获取tags和skip_tags、点击左侧菜单“系统管理”下的“Playbook tag”
 
-.. image:: ../_static/img/using/job/35.png
+.. image:: ../_static/img/using/job/31.png
 
-.. image:: ../_static/img/using/job/36.png
 
 ::
 
-   最后填写具体数据，并点击左上角的执行按钮
+   最后填写具体数据，并点击右上角的执行按钮
 
-.. image:: ../_static/img/using/job/37.png
+.. image:: ../_static/img/using/job/32.png
 
 ::
 
    该作业会跳转到相应的日志页面，并展示该作业运行的具体信息以及日志信息
 
-.. image:: ../_static/img/using/job/38.png
+.. image:: ../_static/img/using/job/33.png
 
 
 四、计划任务
@@ -203,57 +198,95 @@
 
    点击左侧菜单“自动化管理”下的“计划任务菜单”
 
-.. image:: ../_static/img/using/job/39.png
+.. image:: ../_static/img/using/job/34.png
 
 ::
 
    点击页面上的新增按钮,执行方式为计划任务
 
-.. image:: ../_static/img/using/job/40.png
+.. image:: ../_static/img/using/job/35.png
 
 ::
 
    点击新增按钮,执行方式为固定间隔
 
-.. image:: ../_static/img/using/job/41.png
+.. image:: ../_static/img/using/job/36.png
 
 ::
 
-   点击新增按钮,执行方式为特定时间
+   点击新增按钮,执行方式为指定时间
 
-.. image:: ../_static/img/using/job/42.png
+.. image:: ../_static/img/using/job/37.png
 
-.. image:: ../_static/img/using/job/43.png
 
 ::
 
-   点击上方的搜索框可以根据模板以及任务名称进行数据查询和返回查询结果
+   点击授权按钮，可对数据进行权限设置，设置后该条数据获得相应的权限。
 
-.. image:: ../_static/img/using/job/44.png
+.. image:: ../_static/img/using/job/49.png
 
-.. image:: ../_static/img/using/job/45.png
+
+::
+
+   点击表格列的显示与隐藏按钮。
+
+.. image:: ../_static/img/using/job/50.png
+.. image:: ../_static/img/using/job/51.png
+.. image:: ../_static/img/using/job/52.png
+
+
+::
+
+   点击上方的搜索框可以根据模板以及时间进行数据查询和返回查询结果
+
+.. image:: ../_static/img/using/job/39.png
+
+.. image:: ../_static/img/using/job/38.png
+
 
 ::
 
    点击操作框内的修改按钮，可以修改当行数据
 
-.. image:: ../_static/img/using/job/46.png
+.. image:: ../_static/img/using/job/40.png
 
-.. image:: ../_static/img/using/job/47.png
+.. image:: ../_static/img/using/job/41.png
+
 
 ::
 
    点击操作框内的权限管理按钮，可以增加相应的权限
 
-.. image:: ../_static/img/using/job/48.png
+.. image:: ../_static/img/using/job/42.png
+
 
 ::
 
-  点击权限管理按钮后进入用户权限设置以及团队权限设置两个页卡、在两个页面均可以新增、修改、查询、删除等操作，这些功能与前面一样不再赘述
+  点击权限管理按钮后进入用户权限设置以及团队权限设置两个页卡、在两个页面均可以新增、修改、查询、删除等操作。
 
-.. image:: ../_static/img/using/job/49.png
+.. image:: ../_static/img/using/job/43.png
 
-.. image:: ../_static/img/using/job/50.png
+.. image:: ../_static/img/using/job/44.png
+
+
+::
+
+  点击查看按钮后页面跳转到页面管理页面，并展示出该计划任务所执行的作业。
+
+.. image:: ../_static/img/using/job/45.png
+
+.. image:: ../_static/img/using/job/46.png
+
+
+::
+
+  点击删除按钮后删除此条数据。
+
+.. image:: ../_static/img/using/job/47.png
+
+.. image:: ../_static/img/using/job/48.png
+
+
 
 
 
