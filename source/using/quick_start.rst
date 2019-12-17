@@ -144,13 +144,13 @@
 
     点击左侧菜单“通知管理”下的“渠道设置”菜单，点击邮件设置
 
-.. image:: ../_static/img/using/channel_email.png
+.. image:: ../_static/img/using/channel_email.jpg
 
 ::
 
     点击“新增”按钮，新增邮件
 
-.. image:: ../_static/img/using/channel_email_add.png
+.. image:: ../_static/img/using/channel_email_add.jpg
 
 **3.2 添加通知设置**
 -----------------------------
@@ -159,7 +159,7 @@
 
     点击左侧菜单“通知管理”下的“通知设置”菜单
 
-.. image:: ../_static/img/using/notification.png
+.. image:: ../_static/img/using/notification.jpg
 
 ::
 
@@ -177,13 +177,13 @@
 
     点击左侧菜单“模板管理”下的“作业模板”菜单
 
-.. image:: ../_static/img/using/template.png
+.. image:: ../_static/img/using/template.jpg
 
 ::
 
     点击“新增”按钮，添加作业模板
 
-.. image:: ../_static/img/using/template_addupdate.png
+.. image:: ../_static/img/using/template_addupdate.jpg
 
 
 ::
@@ -241,15 +241,15 @@
 
     点击通知设置图标，进入通知设置
 
-.. image:: ../_static/img/using/template_sz.png
+.. image:: ../_static/img/using/template_sz.jpg
 
-.. image:: ../_static/img/using/templatetzsz.png
+.. image:: ../_static/img/using/templatetzsz.jpg
 
 ::
 
     点击新增，选择通知方式，如邮件通知
 
-.. image:: ../_static/img/using/method_to.png
+.. image:: ../_static/img/using/method_to.jpg
 
 
 **4.2 执行作业模板**
@@ -259,7 +259,7 @@
 
     点击执行图标，执行作业模板
 
-.. image:: ../_static/img/using/template_hj2.png
+.. image:: ../_static/img/using/template_hj2.jpg
 
 ::
 
@@ -271,20 +271,20 @@
 五、自动化管理
 ````````````````````
 
-**5.1 批量命令执行**
+**5.1 快速命令执行**
 --------------------------
 
 ::
 
     点击左侧菜单“自动化管理”下的“批量命令”菜单，填写数据后，点击“执行命令”按钮
 
-.. image:: ../_static/img/using/job/32.png
+.. image:: ../_static/img/using/32.jpg
 
 ::
 
     批量执行
 
-.. image:: ../_static/img/using/job/33.png
+.. image:: ../_static/img/using/33.jpg
 
 **5.2 查看作业日志**
 -------------------------
@@ -293,13 +293,13 @@
 
     点击左侧菜单“自动化管理”下的“作业管理”菜单，点击“查看日志”图标，查看作业日志
 
-.. image:: ../_static/img/using/job.png
+.. image:: ../_static/img/using/job.jpg
 
 ::
 
     作业日志：
 
-.. image:: ../_static/img/using/job_zy.png
+.. image:: ../_static/img/using/job_zy.jpg
 
 
 **5.3 设置计划任务**
@@ -309,12 +309,12 @@
 
     点击左侧菜单“自动化管理”下的“计划任务”菜单
 
-.. image:: ../_static/img/using/schedule.png
+.. image:: ../_static/img/using/schedule.jpg
 
 ::
 
     点击“新增”按钮，设置计划任务
 
-.. image:: ../_static/img/using/schedule_add.png
+.. image:: ../_static/img/using/schedule_add.jpg
 
     
