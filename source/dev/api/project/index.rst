@@ -19,3 +19,4 @@
    inventorygroup
    inventoryteam
    inventoryuser
+   hostsource
