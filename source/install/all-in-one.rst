@@ -57,7 +57,7 @@
    打开OpsGrat：http://ip:8000/ (将ip替换为opsgrat服务器的ip地址)
    第一次进入OpsGrat页面如下：
 
-.. image:: ../_static/img/install/license.png
+.. image:: ../_static/img/install/license_one.png
 
 ::
 
