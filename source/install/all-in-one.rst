@@ -11,12 +11,11 @@
 - 内存：>= 8 GB
 - 磁盘：>= 40 GB
 
-二、下载安装包
+二、安装包
 ----------------
 
 ::
 
-   下载地址为：http://www.opsgrat.com/download/
    安装包为：opsgrat-all-in-one.tar.gz
 
 三、部署OpsGrat
