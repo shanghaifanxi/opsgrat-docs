@@ -25,7 +25,7 @@
 
 ::
    
-   配置文件路径为：/opt/opsgrat/opsgrat/opsgrat/configs.yml
+   配置文件路径为：/opt/opsgrat/opsgrat/conf/opsgrat.yml
    
    OpsGrat默认配置如下图所示：
 
@@ -87,7 +87,7 @@
 
 ::
 
-   配置文件路径为：/opt/opsgrat/sso/sso/configs.yml
+   配置文件路径为：/opt/opsgrat/sso/conf/sso.yml
 
    SSO默认配置如下图所示：
 
@@ -158,19 +158,17 @@
  
    注：opsgratd.ini中--concurrency参数表示进程数量，需要根据服务器实际配置进行调整，一般配置为服务器CPU核数+1
 
-四、uwsgi配置
+四、web配置
 ----------------------------
 
 ::
 
-   OpsGrat uwsgi进程配置为：/opt/opsgrat/uwsgi/opsgrat-uwsgi.ini
    默认端口为：7500
    默认进程数为：4
    supervisor配置为：/opt/opsgrat/etc/supervisor/conf.d/opsgrat-web.ini
 
 ::
  
-   SSO uwsgi进程配置为：/opt/opsgrat/uwsgi/sso-uwsgi.ini
    默认端口为：7501
    默认进程数为：4
    supervisor配置为：/opt/opsgrat/etc/supervisor/conf.d/sso-web.ini
